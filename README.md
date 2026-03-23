@@ -23,6 +23,7 @@ No subscriptions. No seat licenses. You pay for results.
 | [Priority Scoring](./priority-scoring.md) | Real-time urgency classification and blanket rules |
 | [Integrations](./integrations.md) | Connect GitHub, Slack, Linear, Jira, and 12 more |
 | [MCP Server](./mcp-server.md) | Use AI agents (Claude Code, Cursor) to manage support |
+| [Human Mode](./human-mode.md) | Free helpdesk mode with no AI classification |
 | [Billing & Pricing](./billing-and-pricing.md) | Pay-per-resolution pricing, credits, and spend caps |
 
 ## Why Supp?
